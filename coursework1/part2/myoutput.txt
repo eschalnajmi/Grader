@@ -1,0 +1,6 @@
+Input file. Opening.
+Output file. Opening.
+Checking data.
+Computing averages.
+Output file. Closing.
+Input file. Closing.
